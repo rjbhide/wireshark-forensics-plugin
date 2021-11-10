@@ -1,0 +1,8 @@
+{
+  "threatstream": {
+    "api_url": "https://api.threatstream.com",
+    "username": "",
+    "api_key": "",
+    "filter": "created_ts>=-7d and confidence>=80"
+  }
+}
