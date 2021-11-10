@@ -1,0 +1,7 @@
+asset_address_type,asset_address,tags
+ip,8.8.4.4,google-dns
+ip,8.8.8.8,google-dns
+cidr,10.0.0.0/8,private-ip
+cidr,172.16.0.0/12,private-ip
+cidr,192.168.0.0/16,private-ip
+domain,www.eicar.org,malware-test-site
